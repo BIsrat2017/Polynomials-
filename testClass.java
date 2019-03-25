@@ -6,7 +6,7 @@ import org.junit.*;
  * @author Sandrain Benaja Tchamba
  * @version November 19, 2018
  */
-public class b {
+public class PolynomialTest{
 
     private Polynomial p1, p2, pn, p;
 
